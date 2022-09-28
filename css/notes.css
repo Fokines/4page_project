@@ -1,0 +1,36 @@
+.navbar-brand{
+    font-family: Courier;
+    font-weight: bolder;
+}
+
+.nav-item{
+    font-family: Courier;
+}
+
+.grid-square {
+    width: 15rem;
+    height: auto;
+    display: inline-block;
+    background-color: #fff;
+    border: solid 1px rgb(0,0,0,0.2);
+    padding: 10px;
+    margin: 12px;
+    font-family: ;
+}
+
+.card-text{
+    text-align: center;
+    font-size:20px;
+    font-family: Courier;
+    font-weight: bolder;
+}
+
+#gridDemo .card:first-child{
+    background-color: #E6E6E6;
+}
+
+.card-text-2{
+    text-align: center;
+    font-size:13px;
+    font-family: Courier;
+}

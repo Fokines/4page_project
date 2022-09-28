@@ -1,0 +1,30 @@
+.nav-item{
+    font-family: Courier;
+}
+
+.navbar-brand{
+    font-family: Courier;
+    font-weight: bolder;
+}
+
+.textMy{
+    font-family: Courier;
+    font-weight: bolder;
+}
+
+.textDown{
+    font-size: 95%;
+    font-family: Courier;
+}
+
+img{
+    width: 50%;
+}
+
+.textSetting{
+    font-family: Courier;
+}
+
+.bColor{
+    color: black;
+}

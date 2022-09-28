@@ -1,0 +1,64 @@
+img {
+    cursor: pointer;
+}
+
+.nav-item{
+        font-family: Courier;
+}
+
+h2{
+    font-family: Courier;
+    font-weight: bolder;
+}
+
+.navbar-brand{
+    font-family: Courier;
+        font-weight: bolder;
+}
+
+.text-justify {
+
+    text-align: justify;
+    font-family: Courier;
+}
+
+.modal-title{
+    font-family: Courier;
+    font-weight: bolder;
+}
+
+a { 
+	color: black;
+   }
+
+.img-thumb {
+    max-width: 100%;
+    border: 1px solid #dee2e6;
+    border: 1px solid var(--bs-gray-300);
+    padding: 5px;
+    border-radius: .3rem;
+}
+
+.img-wrapper {
+    position: relative;
+    font-family: Courier;
+    font-weight: bolder;
+}
+
+.img-wrapper::after {    
+    content: attr(title);
+    font-weight: bolder;
+    color:  black;
+    font-size: calc(1.3rem + .6vw);
+    position: absolute;
+    bottom: .7rem;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.btn-secondary
+{
+    font-family: Courier;
+}
+

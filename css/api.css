@@ -1,0 +1,51 @@
+.navbar-brand{
+    font-family: Courier;
+    font-weight: bolder;
+}
+
+.nav-item{
+    font-family: Courier;
+}
+
+#myChart {
+    
+}
+
+#graph-color {
+    margin-right: 1rem;
+}
+
+.nav-item{
+        font-family: Courier;
+}
+
+.navbar-brand{
+    font-family: Courier;
+    font-weight: bolder;
+}
+
+.text-center{
+    font-family: Courier;
+    font-weight: bolder;
+}
+
+.btn-primary{
+    background-color: black;
+    border-color: black;
+    font-family: Courier;
+}
+
+.justify-content-center{
+    font-family: Courier;
+}
+
+.table-hov tr {
+    transition: all 0.5s ease;
+}
+
+.table-hov tr:hover {
+    color: #000;
+    border-color: #bacbe6;
+    background-color: #bfd1ec;
+    transition: all 0.3s ease;
+}
